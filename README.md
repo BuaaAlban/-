@@ -9,21 +9,7 @@
     暴力解法不太好，每个例子都有一个预测概率p， 排序，然后依次计算precision，遍历一遍即可。时间复杂度是多少？
     
 ##  4.两个有序数组，合并成一个？复杂度？
-   `def rank(a,b)：
-       la =len(a)
-       lb = len(b)
-       if la==0:return b
-       if lb ==0 :return a
-       i,j,c =0,0,[]
-       while True:
-        if a<la and a[i]<b[j]:
-          c.append(a[i])
-          i +=1
-        if j<lb and a[i]>=b[j]:
-          c.append[b[j])
-          j +=1
-        elif i==la-1 and j==lb-1:
-          return c
+    <https://github.com/BuaaAlban/Interview-summery/blob/master/concatlist.py>
          `
  ##   5. 你情感分析里的 w2v 和 3-gram特征怎么用的?
     
