@@ -29,9 +29,24 @@ https://iaman.actor/blog/2016/04/17/copy-in-python
 
 4.链表和数组做查询，选择哪个？为什么？
 
+https://blog.csdn.net/qq_25806863/article/details/70607204
+
 5.极大似然估计和贝叶斯估计的区别和原理
 
+https://blog.csdn.net/liu1194397014/article/details/52766760
+
+https://blog.csdn.net/bitcarmanlee/article/details/52201858
+
+最本质的区别是:
+
+最大似然是对点估计，贝叶斯推断是对分布估计。即，假设求解参数θ，最大似然是求出最有可能的θ值，而贝叶斯推断则是求解θ的分布。
+在公式上，贝叶斯推断还引入了先验，通过先验和似然来求解后验分布，而最大似然直接使用似然函数，通过最大化其来求解。
+
 6.参数估计方法和非参数估计方法有哪些？
+
+参数估计：最大似然估计MLE、最大后验概率估计MAP及贝叶斯估计
+
+非参数估计：直方图法、Kn近邻估计法、Parzen窗法
 
 7.Adam优化方法为什么好？
 
