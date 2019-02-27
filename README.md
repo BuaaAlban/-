@@ -11,6 +11,7 @@
     暴力解法不太好，每个例子都有一个预测概率p， 排序，然后依次计算precision，遍历一遍即可。时间复杂度是多少？
     
  4.两个有序数组，合并成一个？复杂度？
+ 
     [我这么写的]:https://github.com/BuaaAlban/Interview-summery/blob/master/concatlist.py
          `
  5. 你情感分析里的 w2v 和 3-gram特征怎么用的?
@@ -23,6 +24,8 @@
 2.继承父类
 
 3.Deepcopy 和copy ？
+
+https://iaman.actor/blog/2016/04/17/copy-in-python
 
 4.链表和数组做查询，选择哪个？为什么？
 
