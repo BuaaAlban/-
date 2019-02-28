@@ -2,7 +2,8 @@
  1.sequence to sequence 模型怎么进行翻译？
     编码输入rnn,然后rnn怎么解码的，可以找到翻译效果最好的翻译句子，（参考维特比的方法）
     
-   sequence to sequence 模型 https://zhuanlan.zhihu.com/p/43405406   
+   sequence to sequence 模型 https://zhuanlan.zhihu.com/p/25366912
+   注意力模型 https://zhuanlan.zhihu.com/p/43405406   
     
  2.梯度问题怎么导致的，公式推导，门结构怎么解决的梯度问题，从公式说明？
  
@@ -58,4 +59,12 @@ https://blog.csdn.net/bitcarmanlee/article/details/52201858
 
 8.Q-learning的基本原理
   
-    
+##自己瞎整理的有用的问题？？？
+
+1.  l1正则与l2正则的特点是什么，各有什么优势？
+
+https://www.zhihu.com/question/26485586
+
+2.Linear SVM 和 LR 的联系和区别
+
+https://blog.csdn.net/haolexiao/article/details/70191667
