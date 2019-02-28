@@ -2,6 +2,8 @@
  1.sequence to sequence 模型怎么进行翻译？
     编码输入rnn,然后rnn怎么解码的，可以找到翻译效果最好的翻译句子，（参考维特比的方法）
     
+   sequence to sequence 模型 https://zhuanlan.zhihu.com/p/43405406   
+    
  2.梯度问题怎么导致的，公式推导，门结构怎么解决的梯度问题，从公式说明？
  
   https://blog.csdn.net/qq_28031525/article/details/79423450
