@@ -15,6 +15,10 @@
     [我这么写的]:https://github.com/BuaaAlban/Interview-summery/blob/master/concatlist.py
          `
  5. 你情感分析里的 w2v 和 3-gram特征怎么用的?
+ 
+ 6.机器学习里的评价指标 
+ 
+ https://zhuanlan.zhihu.com/p/43405406
     
     
 ### 财富引擎一面
