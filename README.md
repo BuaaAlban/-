@@ -70,8 +70,30 @@
 7.Adam优化方法为什么好？
 
 8.Q-learning的基本原理
-  
-##自己瞎整理的有用的问题？？？
+
+### 3.1 号xilinx一面 
+
+1.介绍一下rnn和lstm 梯度问题
+
+2.如果解决过拟合问题
+
+     增大数据量；换激活函数，relu, tanh, leaky-relu; dropout ; 正则项（正则项怎么解决的过拟合）
+
+3.优化算法了解过么？
+
+     不太了解，大概知道有 minibatch-sgd sgd adam等
+
+4.x正实数， 求根号三次下的x
+
+     二分法，注意x<1 和x>1的情况
+     
+5.给一个字符串，求最大回文数长度？
+
+     leetcode上原题，我发现在一年前的commit上写的 #讨论区答案，我没看懂 哈哈哈
+     
+     https://leetcode.com/problems/longest-palindromic-substring/
+     
+## 自己瞎整理的有用的问题？？？
 
 1.l1正则与l2正则的特点是什么，各有什么优势？
 
