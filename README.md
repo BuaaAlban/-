@@ -1,3 +1,12 @@
+### 面试总结网址
+
+     暑期实习生-自然语言处理算法岗-面试题 https://blog.csdn.net/qq_28031525/article/details/80028055
+     剑指offer python  https://blog.csdn.net/u012505432/article/details/52071537
+     算法工程师/机器学习工程师”的笔试和面试总结 https://blog.csdn.net/duxinyuhi/article/details/78051042
+     自然语言处理（NLP）算法：概述与分类 https://blog.csdn.net/weixin_39449466/article/details/81277403
+     刷题：牛客 https://www.nowcoder.com     leetcode  https://leetcode.com/ 
+     
+
 ### 2.26智能一点算法工程师一面
  1.sequence to sequence 模型怎么进行翻译？
     编码输入rnn,然后rnn怎么解码的，可以找到翻译效果最好的翻译句子，（参考维特比的方法）
