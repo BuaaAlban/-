@@ -17,6 +17,9 @@
     
     rnn用于机器翻译 https://blog.csdn.net/aliceyangxi1987/article/details/71055235
     
+    详解从 Seq2Seq模型、RNN结构、Encoder-Decoder模型 到 Attention模型 https://caicai.science/2018/10/06/attention%E6%80%BB%E8%A7%88/
+
+    
  2.梯度问题怎么导致的，公式推导，门结构怎么解决的梯度问题，从公式说明？
  
      https://blog.csdn.net/qq_28031525/article/details/79423450
