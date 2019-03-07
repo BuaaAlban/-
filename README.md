@@ -104,6 +104,8 @@
 
 3.抓取实时数据，一分钟上万条，想要挖掘热点，该怎么做？ single-pass算法了解过吗？meiyou
 
+     singlepass发现热点 https://www.jianshu.com/p/d1a6b120205e
+
 4.中序遍历的非递归方法来一下子
 
 5.一炷香1小时，2柱香怎么搞45min。  两头点不就完了
