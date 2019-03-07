@@ -79,3 +79,10 @@ def ConstructTreeByInPostOrder(inorder,postorder):
             cur = stactnode.get()
             rootindex = inorder.index(cur.val)  
     PreOrderWithoutRecursion(root) #前序遍历输出构造的二叉树
+
+if __name__=='__main__':
+    preorder = [1, 2, 4, 3, 5, 6, 7]
+    inorder = [2, 4, 1, 5, 3, 7, 6]
+    postorder = [4, 2, 5, 7, 6, 3, 1]
+    ConstructTreeByPreInOrder(preorder, inorder)
+    ConstructTreeByInPostOrder(inorder, postorder)
